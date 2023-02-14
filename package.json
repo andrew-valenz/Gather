@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.5",
+    "@react-navigation/native": "^6.1.4",
+    "@react-navigation/stack": "^6.3.13",
+    "create-react-app": "^5.0.1",
+    "expo": "^47.0.13",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-reanimated": "^2.14.4",
+    "react-native-safe-area-context": "^4.5.0",
+    "react-native-screens": "^3.20.0"
+  }
+}
